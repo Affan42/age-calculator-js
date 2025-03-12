@@ -53,3 +53,6 @@ elements.submit.addEventListener("click", ()=>{
 function isNegative(num){
     return num < 0
 }
+
+
+console.log("jio")
